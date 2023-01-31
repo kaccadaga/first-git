@@ -9,7 +9,7 @@ int main ()
 
     setlocale(LC_ALL,"RU");
     
-    cout<<" Привет гитхаб!!!!!! ";
+    cout<<" Привет гитхаб!!!!!!!! ";
 
 
     return 0;
